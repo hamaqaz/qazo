@@ -1,11 +1,11 @@
 # Qazo
-Lunar is a neural network aim assist that uses real-time object detection accelerated with CUDA on Nvidia GPUs.
+Qazo is a neural network aim assist that uses real-time object detection accelerated with CUDA on Nvidia GPUs.
 
 ## About
 
-Lunar can be modified to work with a variety of FPS games; however, it is currently configured for Fortnite. Besides being general purpose, the main advantage of using Lunar is that it does not meddle with the memory of other processes.
+Qazo can be modified to work with a variety of FPS games; however, it is currently configured for Fortnite. Besides being general purpose, the main advantage of using Lunar is that it does not meddle with the memory of other processes.
 
-The basis of Lunar's player detection is the [YOLOv5](https://github.com/ultralytics/yolov5) architecture written in PyTorch.
+The basis of Qazos's player detection is the [YOLOv5](https://github.com/ultralytics/yolov5) architecture written in PyTorch.
 
 A demo video (outdated) can be found [here](https://www.youtube.com/watch?v=XDAcQNUuT84).
 
